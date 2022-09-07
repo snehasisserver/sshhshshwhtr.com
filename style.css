@@ -1,0 +1,60 @@
+#footer_me{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    color:black;
+    background-color: gray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+#spa{
+    color:red;
+}
+.img-responsive{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+ol{
+    background-color: gray;
+    border-radius: 40px;
+    padding: 40px;
+    margin: 10px;
+}
+#b1{
+    color: violet;
+}
+#mini_result{
+    text-align: center;
+    color:white;
+}
+#lh5{
+    background-color: white;
+    border-radius: 20px;
+  
+}
+#bb{
+    color: blueviolet;
+}
+#final_result{
+    margin-bottom:55px;
+    background-color: gainsboro;
+    border: 1px black solid;
+    border-radius:10px;
+    padding: 20px;
+    width: fit-content;
+}
+#po{
+    font-size: 30px;
+    color:darkorchid
+}
+#po1{
+    color:white;
+    border-radius: 5px;
+    border:0;
+    background-color: violet;
+    width: fit-content;
+    padding: 10px;
+}
